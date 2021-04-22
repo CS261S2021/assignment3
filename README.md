@@ -20,7 +20,9 @@ the tasks described below.
 In this assignment, your work will be limited to the files `list_reverse.c`, 
 `queue_from_stacks.c`, and `stack_from_queues.c`, where you will implement the functions 
 described below. In addition to the descriptions below, there is thorough documentation 
-in these files describing how each function should behave. 
+in these files describing how each function should behave. I believe you can upload all three files 
+in one upload to Gradescope, or you could zip them (without an enclosing folder) and that should
+unzip and upload them as well. 
 
 ## 1. Implement a function to reverse a linked list in place
 
