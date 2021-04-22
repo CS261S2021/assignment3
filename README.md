@@ -1,4 +1,5 @@
-# Assignment 3
+# Assignment 3: Stacks and Queues
+
 **Due by 11:59pm on Monday, 5/3/2021**
 
 **Demo due by 11:59pm on Monday 5/17/2020**
